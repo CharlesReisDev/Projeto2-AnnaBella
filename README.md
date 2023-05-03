@@ -1,3 +1,4 @@
 # Projeto2-AnnaBella
-Esse e um projeto que desafio conhecimentos basicos de css.<br>
+<p>Esse e um projeto que desafio conhecimentos basicos de css.</p>
+
 resultado: https://charlesreisdev.github.io/Projeto2-AnnaBella/
